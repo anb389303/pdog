@@ -5,7 +5,7 @@
 // to interact with metamask change provider to currentProvider
 var web3 = new Web3(web3.currentProvider);
 var catchCoinContract;
-var contractAddress = "0xA6635E6575d1DA746a2CBc6DD164cCaDB615b5a9";
+var contractAddress = "0x2DACBa14712603060b265D9F50b7b7063CDa5DbE";
 
 $(document).ready(function() {
   // to enabel accounts (trough metamask) and create Contract instance
